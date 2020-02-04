@@ -1,0 +1,11 @@
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\obj\Debug\netcoreapp3.1\BasicQueue.csprojAssemblyReference.cache
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\obj\Debug\netcoreapp3.1\BasicQueue.AssemblyInfoInputs.cache
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\obj\Debug\netcoreapp3.1\BasicQueue.AssemblyInfo.cs
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\bin\Debug\netcoreapp3.1\BasicQueue.exe
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\bin\Debug\netcoreapp3.1\BasicQueue.deps.json
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\bin\Debug\netcoreapp3.1\BasicQueue.runtimeconfig.json
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\bin\Debug\netcoreapp3.1\BasicQueue.runtimeconfig.dev.json
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\bin\Debug\netcoreapp3.1\BasicQueue.dll
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\bin\Debug\netcoreapp3.1\BasicQueue.pdb
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\obj\Debug\netcoreapp3.1\BasicQueue.dll
+C:\Users\Talmid\Desktop\BasicQueue\BasicQueue\obj\Debug\netcoreapp3.1\BasicQueue.pdb
